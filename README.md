@@ -1,6 +1,6 @@
 <H1>Hi! I'm Faza</H1>
 
-💻 I'm a student at vocational school majoring in software engineering
+💻 I'm a collage student majoring in software engineering
 
 🌱 I'm currently learning: React & Node.js
 
