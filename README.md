@@ -2,7 +2,7 @@
 
 💻 I'm a student at vocational school majoring in software engineering
 
-🌱 I'm currently learning: JavaScript and React
+🌱 I'm currently learning: React & Node.js
 
 🎯 I'm currently focusing on: Front-End and Back-End Development
 
