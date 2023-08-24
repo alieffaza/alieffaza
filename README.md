@@ -8,7 +8,7 @@
 
 📫 Reach me at: alieffaza.mail@gmail.com
 
-<H3>Social media profiles:</H3>
+<H3>Social media:</H3>
 <p align="left">
    <a href="https://instagram.com/alieffaza">
      <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile">
