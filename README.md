@@ -4,7 +4,7 @@
 
 🎯 I'm focusing on Front-End and Back-End Development
 
-🌱 I'm currently learning: React & Node.js
+🌱 I'm currently learning: React.js & Node.js
 
 📫 Reach me at: alieffaza.mail@gmail.com
 
