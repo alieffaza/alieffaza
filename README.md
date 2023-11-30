@@ -2,7 +2,7 @@
 
 💻 I'm a college student majoring in Computer Science
 
-🎯 I'm focusing on Front-End Website Development
+🎯 I'm focusing on Fullstack Website Development
 
 🌱 I'm currently learning: React.js
 
