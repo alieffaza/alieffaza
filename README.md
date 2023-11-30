@@ -1,10 +1,10 @@
-<H1>Hi! I'm Faza</H1>
+<H1>Hi! I'm Alief Faza</H1>
 
-💻 I'm a college student majoring in software engineering
+💻 I'm a college student majoring in Computer Science
 
-🎯 I'm focusing on Front-End and Back-End Development
+🎯 I'm focusing on Front-End Website Development
 
-🌱 I'm currently learning: React.js & Node.js
+🌱 I'm currently learning: React.js
 
 📫 Reach me at: alieffaza.mail@gmail.com
 
