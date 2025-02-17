@@ -4,7 +4,7 @@
 
 🎯 I'm focusing on Fullstack Website Development
 
-🌱 I'm currently learning: React.js
+🌱 I'm currently learning: Kotlin
 
 📫 Reach me at: alieffaza.mail@gmail.com
 
